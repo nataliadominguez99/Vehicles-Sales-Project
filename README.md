@@ -38,7 +38,6 @@ Identify sales patterns by product line, time period, and geographical region, a
 
 3. **SQL Integration**
    - Queried dataset to answer business questions
-   - Aggregated and filtered data by sales thresholds, time, and region
 
 ---
 
