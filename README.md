@@ -6,7 +6,7 @@ Exploring sales transactions of classic and specialty vehicles to uncover trends
 
 ## 📂 Dataset Description
 
-- **Source:** [`sales_data_sample.csv`](./sales_data_sample.csv)  
+- **Dataset Source:** [Kaggle – Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 - **Size:** 2,823 rows × 25 columns  
 - **Key variables:**
   - `ORDERNUMBER`, `ORDERDATE`, `QTR_ID`, `MONTH_ID`
