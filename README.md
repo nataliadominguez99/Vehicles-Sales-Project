@@ -8,7 +8,7 @@ Exploring sales transactions of classic and specialty vehicles to uncover trends
 
 - **Dataset Source:** [Kaggle – Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 - **Size:** 2,823 rows × 25 columns
-- 
+  
 **Notable Quirks:**
 - **No Unique Key:** The dataset does not have a primary key to uniquely identify each row.  
 - **Order-to-Product Relationship:** A single `ORDERNUMBER` can be linked to multiple `PRODUCTCODE` entries, meaning each row represents a line item within an order rather than the entire order.  
