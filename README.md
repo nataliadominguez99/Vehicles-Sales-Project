@@ -68,10 +68,10 @@ Identify sales patterns by product line, time period, and geographical region, a
 3. **Open the Jupyter Notebook**
 - If you use Jupyter Notebook:
    ```bash
-   jupyter notebook "Project 2 EDA and SQL FINAL.ipynb"
+   jupyter notebook "Vehicles Sales Data Analysis.ipynb"
 - Or, open it in VSCode by double-clicking the file or using:
    ```bash
-    code "Project 2 EDA and SQL FINAL.ipynb"
+    code "Vehicles Sales Data Analysis.ipynb"
   
 4. **Ensure the dataset is in the correct location**
 - The file sales_data_sample.csv must be in the same directory as the notebook.
