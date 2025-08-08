@@ -54,7 +54,7 @@ Identify sales patterns by product line, time period, and geographical region, a
 
 **Prerequisites:**
 - Python **3.10+**
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `numpy`, `sqlite3`
+- Libraries: `pandas`, `matplotlib`, `seaborn`, `numpy`
 
 **Run Instructions:**
 1. **Clone this repository**
