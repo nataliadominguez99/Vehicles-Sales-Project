@@ -88,7 +88,7 @@ Identify sales patterns by product line, time period, and geographical region, a
 ---
 
 ## 📁 Repo Structure
-
+```bash
 ├── Project 2 EDA and SQL FINAL.ipynb # Main analysis notebook
 ├── sales_data_sample.csv # Dataset used in the analysis
 ├── README.md # Project documentation
