@@ -8,11 +8,6 @@ Exploring sales transactions of classic and specialty vehicles to uncover trends
 
 - **Dataset Source:** [Kaggle – Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 - **Size:** 2,823 rows × 25 columns  
-- **Key variables:**
-  - `ORDERNUMBER`, `ORDERDATE`, `QTR_ID`, `MONTH_ID`
-  - `PRODUCTLINE`, `MSRP`, `SALES`
-  - `COUNTRY`, `CITY`, `CUSTOMERNAME`
-  - `DEALSIZE`, `STATUS`
 - **Notable quirks:**
   - Missing or unusual values in `STATE` and `POSTALCODE`
   - `SALES` column represents total order amount, not unit price
