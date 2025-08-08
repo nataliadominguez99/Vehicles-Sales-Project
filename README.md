@@ -60,11 +60,11 @@ Identify sales patterns by product line, time period, and geographical region, a
 **Run Instructions:**
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/nataliadominguez99/Vehicles-Sales-Project.git
 
 2. **Navigate to the project folder**
    ```bash
-    cd your-repo-name
+    cd Vehicles-Sales-Project
 
 3. **Open the Jupyter Notebook**
 - If you use Jupyter Notebook:
